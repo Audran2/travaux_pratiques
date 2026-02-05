@@ -1,0 +1,12 @@
+[
+  { "text": "Service impeccable, je recommande vivement !", "label": "positif" },
+  { "text": "Très déçu, le produit est arrivé cassé.", "label": "negatif" },
+  { "text": "Bonne qualité pour le prix, rien à redire.", "label": "positif" },
+  { "text": "Expérience catastrophique, je ne reviendrai pas.", "label": "negatif" },
+  { "text": "Livraison rapide et produit conforme.", "label": "positif" },
+  { "text": "Support client inexistant, très frustrant.", "label": "negatif" },
+  { "text": "Excellente surprise, au-delà de mes attentes !", "label": "positif" },
+  { "text": "Mauvaise finition, je m'attendais à mieux.", "label": "negatif" },
+  { "text": "Parfait du début à la fin.", "label": "positif" },
+  { "text": "Trop cher pour ce que c'est.", "label": "negatif" }
+]
